@@ -15,6 +15,7 @@ This is a data analysis and visualization project using Microsoft Excel to explo
 - Year-over-year changrs in inflation and GPD
 - Regional performance comparisons from 2010-2025
 # Related Posts
+- Email: olawumisunday2@gmail.com
 - Linkedin: https://www.linkedin.com/posts/olawumi-agboola-b791b2362_dataanalytics-worldbank-economicdashboard-activity-7343982052548960256-7zOI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoV-w0BmAa68mTeFQvhTHLGNSEzvFes6EI
 - X: https://x.com/GspWumi/status/1938240350444724456
 # Author
